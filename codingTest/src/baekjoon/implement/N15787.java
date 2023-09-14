@@ -1,4 +1,4 @@
-package implement;
+package baekjoon.implement;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
